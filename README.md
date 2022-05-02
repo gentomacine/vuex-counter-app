@@ -1,4 +1,5 @@
-# vuex-counter
+# vuex-counter 
+this project produces a random number which can be added or substracted subsiquently 
 
 ## Project setup
 ```

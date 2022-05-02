@@ -1,6 +1,9 @@
 # vuex-counter 
 this project produces a random number which can be added or substracted subsiquently 
 
+# deployment
+https://upbeat-galileo-895c5c.netlify.app
+
 ## Project setup
 ```
 npm install
